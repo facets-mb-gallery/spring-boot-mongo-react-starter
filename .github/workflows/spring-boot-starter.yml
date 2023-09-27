@@ -7,7 +7,7 @@ on:
       - 'code/spring-boot-starter/**'
   push:
     branches:
-      - master
+      - main
     paths:
       - 'code/spring-boot-starter/**'
 
