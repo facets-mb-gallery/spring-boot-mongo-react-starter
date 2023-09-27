@@ -7,7 +7,7 @@ on:
       - 'code/react-starter/**'
   push:
     branches:
-      - master
+      - main
     paths:
       - 'code/react-starter/**'
       
