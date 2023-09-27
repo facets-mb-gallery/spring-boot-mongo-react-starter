@@ -1,6 +1,6 @@
 # mb-spring-boot-mongo-react-starter
 
-This monorepo bootstraps a spring boot application that works with a Mongo database. It bootstraps
+This monorepo bootstraps a spring boot application that works with a Mongo database. It bootstraps:
 
 - The architecture
 - The continuous integration with Github Actions
