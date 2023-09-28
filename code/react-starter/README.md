@@ -1,1 +1,1 @@
-Starter for a react project
+Starter for a react project.
