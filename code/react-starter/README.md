@@ -1,5 +1,1 @@
-Some changes
-
-Some code changes
-
-Fix tests
+Starter for a react project.
