@@ -1,7 +1,6 @@
 {
-  "$schema": "https://facets-cloud.github.io/facets-schemas/schemas/service/service.schema.json",
   "kind": "service",
-  "flavor": "default",
+  "flavor": "k8s",
   "version": "0.1",
   "metadata": {
     "name": "ui"
