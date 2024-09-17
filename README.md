@@ -11,4 +11,4 @@ This monorepo bootstraps a spring boot application that works with a Mongo datab
 - Spring Boot 3.x
 - MongoDB 6.0
 - Load Balancer: AWS ALB
-- React Version: 17.0.1
+- React Version: 17.0.2
